@@ -1,11 +1,13 @@
 # CreditWise-Loan-Approval-System
 
 🔍 Project Overview
+
 CreditWise Loan Approval System is a Machine Learning–based loan approval prediction system developed using Python and Jupyter Lab.
 The project analyzes applicant financial and personal details to predict whether a loan will be approved or rejected, following a complete end-to-end Data Science pipeline.
 This project focuses on EDA, preprocessing, feature engineering, multiple ML models, and performance comparison
 
 🎯 Objective
+
 To build a reliable loan approval prediction system that:
 - Reduces manual decision-making
 - Uses data-driven insights
