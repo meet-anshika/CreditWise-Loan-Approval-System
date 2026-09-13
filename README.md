@@ -55,8 +55,11 @@ Performed detailed EDA using:
 - Applied StandardScaler for feature normalization
 
 🤖 Machine Learning Models Used
+
 🔹 Logistic Regression
+
 🔹 K-Nearest Neighbors (KNN)
+
 🔹 Naive Bayes (GaussianNB)
 
 📈 Model Evaluation Metrics
@@ -82,5 +85,7 @@ Overall, Naive Bayes is the most suitable model for this dataset.
    Credit_wise.ipynb
 
 👩‍💻 Author
+
 Anshika Kela
+
 B.Tech – CSE (Data Science)
