@@ -21,6 +21,7 @@ To build a reliable loan approval prediction system that:
 - Scikit-learn – Machine Learning & preprocessing
 
 🔄 Project Workflow
+
 1️) Data Loading & Understanding
 - Loaded dataset using Pandas
 - Checked shape, datatypes, and missing values
